@@ -4,8 +4,8 @@
 
 ![typescript](/assets/typescript.png)
 ![javascript](/assets/javascript.png)
-![nodejs](/assets/nodejs.png)
 ![python](/assets/python.png)
+![nodejs](/assets/nodejs.png)
 ![express](/assets/express.png)
 ![react](/assets/react.png)
 ![redux](/assets/redux.png)
